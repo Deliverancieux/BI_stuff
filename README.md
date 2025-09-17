@@ -2,5 +2,6 @@
 BI stuff my lecturer told me to create this
 
 _some italic text whooo_
-ughhh conflicts
+
+making some changes (ughh conflicts)
 hello world i guess
